@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vish-on-duty
-- 👀 I’m interested in compueterss
+- 👀 I’m interested in computerss
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web dev projects
   
